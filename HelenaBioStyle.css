@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color: white;
+}
+#bio{
+    background-color: blue;
+}
+h2{
+    text-align: center;
+    color: palevioletred;
+}
+.box{
+    background-color: black;
+}
+img{
+    border: 5px;
+    border-color: red;
+    border-style: dotted;
+}
